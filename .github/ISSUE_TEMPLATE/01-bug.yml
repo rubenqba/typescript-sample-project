@@ -7,7 +7,7 @@ body:
           required: true
         - label: I have pulled the latest `main` branch of the repository.
           required: true
-        - label: I have [searched for related issues](https://github.com/JoshuaKGoldberg/template-typescript-node-package/issues?q=is%3Aissue) and found none that matched my issue.
+        - label: I have [searched for related issues](https://github.com/rubenqba/typescript-sample-project/issues?q=is%3Aissue) and found none that matched my issue.
           required: true
     type: checkboxes
   - attributes:
@@ -28,6 +28,6 @@ body:
     type: textarea
 description: Report a bug trying to run the code
 labels:
-  - "type: bug"
+  - 'type: bug'
 name: 🐛 Report a Bug
-title: "🐛 Bug: <short description of the bug>"
+title: '🐛 Bug: <short description of the bug>'
